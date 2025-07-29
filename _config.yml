@@ -1,9 +1,9 @@
 title: "minosoft"
 description: "Pascal PINCHAURET-LAMOTHE · Consultant en Informatique · Genève · Canton de Vaud · Suisse"
-# baseurl: "" # à utiliser si ton site n'est pas à la racine
-# url: "https://ton-nom.github.io" # à adapter si tu héberges ailleurs
-baseurl: "/minosoft-web-site"  # nom de ton repo
+baseurl: "" # à utiliser si ton site n'est pas à la racine
 url: "https://minosoft-fr.github.io"
+# baseurl: "/minosoft-web-site"  # nom de ton repo
+# url: "https://ton-nom.github.io" # à adapter si tu héberges ailleurs
 
 # 🖼️ Thème distant (Architect)
 remote_theme: pages-themes/architect@v0.2.0

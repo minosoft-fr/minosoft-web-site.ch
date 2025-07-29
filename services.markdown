@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Services
-permaLink: /Services
 ---
 
 ## Mes compétences
