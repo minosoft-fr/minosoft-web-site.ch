@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accueil
+permaLink: home
 ---
 
 # Développeur Logiciel Freelance
@@ -10,12 +11,12 @@ title: Accueil
   <tr>
     <td><i class="devicon-cplusplus-plain colored" title="C++" style="font-size:80px;"></i></td>
     <td><i class="devicon-qt-original colored" title="Qt" style="font-size:80px;"></i></td>
-	<td><img src="/assets/images/IT/VS.png" alt="Visual Studio" width="80px"></td>
+	<td><img src="{{ site.baseurl }}/assets/images/IT/VS.png" alt="Visual Studio" width="80px"></td>
     <td><i class="devicon-dotnetcore-plain colored" title=".NET" style="font-size:80px;"></i></td>
     <td><i class="devicon-csharp-plain colored" title="C#" style="font-size:80px;"></i></td>
-    <td><img src="/assets/images/IT/VB.png" alt="VB" width="80px"></td>
+    <td><img src="{{ site.baseurl }}/assets/images/IT/VB.png" alt="VB" width="80px"></td>
     <td><i class="devicon-python-plain colored" title="Python" style="font-size:80px;"></i></td>
-    <td><img src="/assets/images/IT/SQL.jpeg" alt="SQL" width="80px"></td>
+    <td><img src="{{ site.baseurl }}/assets/images/IT/SQL.jpeg" alt="SQL" width="80px"></td>
   </tr>
   <tr>
     <td>C++</td>
