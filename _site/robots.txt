@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/minosoft-web-site/sitemap.xml
+Sitemap: https://minosoft-fr.github.io/minosoft-web-site/sitemap.xml
