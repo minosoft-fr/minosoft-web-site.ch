@@ -1,9 +1,9 @@
 main:
   - title: "Accueil"
-    url: "home/"
+    url: "home"
   - title: "Services"
-    url: "services/"
+    url: "services"
   - title: "À propos"
-    url: "about/"
+    url: "about"
   - title: "Contact"
-    url: "contact/"
+    url: "contact"
