@@ -1,0 +1,47 @@
+title: "minosoft"
+description: "Pascal PINCHAURET-LAMOTHE · Consultant en Informatique · Genève · Canton de Vaud · Suisse"
+baseurl: "" # à utiliser si ton site n'est pas à la racine
+url: "https://ton-nom.github.io" # à adapter si tu héberges ailleurs
+
+# 🖼️ Thème distant (Architect)
+remote_theme: pages-themes/architect@v0.2.0
+theme: null
+
+# 👤 Auteur
+author:
+  name: "Pascal PINCHAURET-LAMOTHE"
+  email: "ton.email@example.com"
+
+# 📁 Dossiers exclus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+# 📦 Plugins utilisés
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 🔎 Options SEO
+seo:
+  type: "Person"
+  name: "Pascal PINCHAURET-LAMOTHE"
+  social:
+    name: "minosoft"
+    links:
+      - "https://linkedin.com/in/pinchoonet"
+      - "https://github.com/minosoft-2048"
+
+# 🗂️ Navigation dynamique (si tu as _data/navigation.yml)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default

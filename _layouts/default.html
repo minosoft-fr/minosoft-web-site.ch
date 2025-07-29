@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/mon_style.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/mon_print.css' | relative_url }}" media="print" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/css/flag-icons.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  </head>
+
+  <body>
+	<header class="site-header">
+      <div class="logo-title">
+        <img src="/assets/images/logo.png" alt="{{ site.title }}" class="logo">
+		<h1>{{ site.title }}</h1>
+		<span class="fi fi-fr"></span>
+		<span class="fi fi-ch"></span>
+		<span class="fi fi-gb"></span>
+	  </div>
+
+      <nav class="menu" id="menu">
+        <ul>
+          {% for item in site.data.navigation.main %}
+          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+
+      <h2>{{ page.title }}</h2>
+
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</p>
+    </footer>
+  </body>
+</html>
