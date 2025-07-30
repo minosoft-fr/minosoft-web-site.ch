@@ -4,6 +4,7 @@ baseurl: "/minosoft-web-site"  # nom de ton repo
 #baseurl: "" # à utiliser si ton site n'est pas à la racine
 #url: "https://ton-nom.github.io" # à adapter si tu héberges ailleurs
 url: "https://minosoft-fr.github.io"
+version: "1.0.1.2"
 
 # 🖼️ Thème distant (Architect)
 remote_theme: pages-themes/architect@v0.2.0
