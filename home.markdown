@@ -50,4 +50,4 @@ Je conçois des solutions robustes, performantes et sur mesure pour Windows et/o
 
 <span class="fi fi-gb"></span> <span class="fi fi-us"></span> I speak, read and write english fluently.
 
-👉 [Contactez-moi](/contact/) pour discuter de votre projet.
+👉 [Contactez-moi](/contact.html) pour discuter de votre projet.
