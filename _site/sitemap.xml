@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/jekyll/update/2025/07/27/welcome-to-jekyll.html</loc>
+<loc>https://minosoft-fr.github.io/minosoft-web-site/jekyll/update/2025/07/27/welcome-to-jekyll.html</loc>
 <lastmod>2025-07-27T21:55:10+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about.html</loc>
+<loc>https://minosoft-fr.github.io/minosoft-web-site/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact.html</loc>
+<loc>https://minosoft-fr.github.io/minosoft-web-site/contact.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/home.html</loc>
+<loc>https://minosoft-fr.github.io/minosoft-web-site/home.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://minosoft-fr.github.io/minosoft-web-site/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/services.html</loc>
+<loc>https://minosoft-fr.github.io/minosoft-web-site/services.html</loc>
 </url>
 </urlset>
