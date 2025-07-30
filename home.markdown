@@ -46,7 +46,7 @@ permaLink: home
 ### Pour vos projets informatiques en France <span class="fi fi-fr"></span> et en Suisse <span class="fi fi-ch"></span>
 
 👋 Bonjour, je suis Pascal, développeur logiciel freelance, spécialisé dans le développement logiciel.  
-Je conçois des solutions robustes, performantes et sur mesure en pour Windows et/ou Linux avec C++ (Qt, Visual Studio), .NET (C#, VB) ou python.
+Je conçois des solutions robustes, performantes et sur mesure pour Windows et/ou Linux avec C++ (Qt, Visual Studio), .NET (C#, VB) ou python.
 
 <span class="fi fi-gb"></span> <span class="fi fi-us"></span> I speak, read and write english fluently.
 
