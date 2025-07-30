@@ -1,2 +1,3 @@
 #!/bin/bash
-git log -1 --format="%ad" --date=format:"%d/%m/%Y" > ../_includes/last_update.txt
+cd ~/minosoft
+git log -1 --format="%ad" --date=format:"%d/%m/%Y" > _includes/last_update.txt
