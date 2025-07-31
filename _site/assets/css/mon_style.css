@@ -1,3 +1,35 @@
+/* responsive */
+body {
+  padding: 1rem;
+}
+
+.container {
+  max-width: 100%;
+  padding: 0 1rem;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  .container {
+    padding: 0.5rem;
+  }
+}
+
+table {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  i, img {
+    font-size: 40px !important;
+    width: 40px !important;
+  }
+}
+
 /* footer */
 footer p {
   margin-bottom: 0;
