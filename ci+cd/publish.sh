@@ -1,14 +1,18 @@
 #!/bin/bash
 clear
 cd ~/minosoft
+# last updates
 jekyll build
 git status
 git add .
-cd ~/minosoft/ci+cd
-./lu.sh
-# Prompt user for a commit message
 read -p "commit message: " msg
 git commit -m "$msg"
-./ci+cd/lu.sh
 git push -u origin master
+# git last update datetime
+./ci+cd/lu.sh
+git status
+git add .
+git commit -m "git last update datetime"
+git push -u origin master
+# end
 echo done!
