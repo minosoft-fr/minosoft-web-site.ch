@@ -14,10 +14,10 @@
 
   <body>
 	<header class="site-header">
-      <nav class="menu" id="menu">
+      <nav class="menu-header">
         <ul>
           {% for item in site.data.navigation.main %}
-          <li><a href="{{ site.baseurl }}/{{ item.url }}.html">{{ item.title }}</a></li>
+          <li{{ item.class }}><a href="{{ site.baseurl }}/{{ item.url }}.html">{{ item.title }}</a></li>
           {% endfor %}
         </ul>
       </nav>
