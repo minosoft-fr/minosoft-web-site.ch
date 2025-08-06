@@ -42,9 +42,9 @@
 
     <footer>
       <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</p>
-      <div class="version-footer">
-        version : {{ site.version }} - last git update : {% include last_update.txt %}
-      </div>
+      <span class="version-badge">
+        version {{ site.version.major }}.{{ site.version.minor }}.{{ site.version.patch }}.{{ site.version.build }} - last update (git) : {{ site.last_update }}
+      </span>
     </footer>
   </body>
 </html>

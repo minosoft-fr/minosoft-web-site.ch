@@ -11,4 +11,3 @@ main:
   - title: "Contact"
     url: "contact"
     class: " class=\"menu-header-right\""
-    # attributes: " style=\"float:right\""
