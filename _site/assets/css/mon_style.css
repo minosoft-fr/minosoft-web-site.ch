@@ -177,6 +177,14 @@ main {
   width: 100%;
 }
 
+/* blinking text */
+.blink {
+  animation: blinker 1s linear infinite;
+}
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+
 @media (max-width: 768px) {
   .all {
     box-sizing: border-box;

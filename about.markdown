@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bio
+title: CV
 ---
 
 ## Qui suis-je ?
@@ -19,25 +19,6 @@ Je suis passionné par le code propre, les architectures bien pensées et les pr
 
 <!-- <p>🇫🇷 France &nbsp;&nbsp; 🇨🇭 Suisse</p> --> <!-- FIREFOX only :-) -->
 
+[📥 Télécharger mon CV](assets/cv/Brochure+CV-Freelance_Pascal_Pinchauret-Lamothe_(details).pdf)
+{: .blink}  
 💼 LinkedIn : [linkedin.com/in/pinchoonet](https://linkedin.com/in/pinchoonet)
-
-<!-- 
----
-layout: page
-title: About
-permalink: /about/
----
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
--->

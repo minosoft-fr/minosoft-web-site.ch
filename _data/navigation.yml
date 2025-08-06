@@ -5,7 +5,7 @@ main:
   - title: "Services"
     url: "services"
     class: " class=\"menu-header-left\""
-  - title: "Bio"
+  - title: "CV"
     url: "about"
     class: " class=\"menu-header-left\""
   - title: "Contact"
