@@ -1,19 +1,21 @@
 title: "minosoft"
 description: "Pascal PINCHAURET-LAMOTHE · Consultant en Informatique · Genève · Canton de Vaud · Suisse"
-baseurl: "/minosoft-web-site"  # nom de ton repo
-#baseurl: "" # à utiliser si ton site n'est pas à la racine
-#url: "https://ton-nom.github.io" # à adapter si tu héberges ailleurs
-url: "https://minosoft-fr.github.io"
+baseurl: ""  # ← Laisse vide si tu utilises un domaine personnalisé
+url: "https://minosoft.ch"
+
+# GitHub pages repo
+#baseurl: "/minosoft-web-site"  
+#url: "https://minosoft-fr.github.io"
 
 # 📁 Version
 version:
   major: 1
   minor: 0
   patch: 0
-  build: 20
+  build: 21
 
 # 📁 Last update (git)
-last_update: "2025-08-07 14:12:14 +0200"
+last_update: "2025-08-07 14:12:16 +0200"
 
 # 🖼️ Thème distant (Architect)
 remote_theme: pages-themes/architect@v0.2.0

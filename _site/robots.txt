@@ -1,1 +1,1 @@
-Sitemap: https://minosoft-fr.github.io/minosoft-web-site/sitemap.xml
+Sitemap: https://minosoft.ch/sitemap.xml
