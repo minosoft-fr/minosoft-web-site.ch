@@ -106,7 +106,10 @@ Je conçois des solutions robustes, performantes et sur mesure pour Windows et/o
 
 <p><span class="fi fi-gb"></span> <span class="fi fi-us"></span> I speak, read and write english fluently.</p>
 
-<p>👉 <a href="contact">Contactez-moi</a> pour discuter de votre projet.</p>
+<p><br />
+<a href="/contact" class="cv-download">
+  👉 Contactez-moi pour discuter de votre projet.
+</a></p>
 
 
     </main>
@@ -114,8 +117,18 @@ Je conçois des solutions robustes, performantes et sur mesure pour Windows et/o
     <footer>
       <p>&copy; 2025 Pascal PINCHAURET-LAMOTHE</p>
       <span class="version-badge">
-        version 1.0.0.14 - last update (git) : 2025-08-06 10:45:19 +0200
+        version 1.0.0.15 - last update (git) : 2025-08-06 12:59:05 +0200
       </span>
     </footer>
   </body>
 </html>
+
+<!-- External links opened in a new window -->
+<script>
+  document.querySelectorAll('a[href^="http"]').forEach(link => {
+    if (link.hostname !== location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+</script>

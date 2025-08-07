@@ -60,9 +60,11 @@
     </header>
 
     <main>
-      <h2 id="qui-suis-je-">Qui suis-je ?</h2>
+      <p><a href="/assets/cv/Brochure+CV-Freelance_Pascal_Pinchauret-Lamothe_(details).pdf" class="cv-download" download="">
+  📥 Télécharger mon CV
+</a></p>
 
-<p>Pascal PINCHAURET-LAMOTHE</p>
+<h2 id="pascal-pinchauret-lamothe">Pascal PINCHAURET-LAMOTHE</h2>
 
 <p>Développeur freelance avec plus de 30 ans d’expérience :</p>
 <ul>
@@ -74,19 +76,33 @@
 
 <p>📍 Basé à Grenoble et à Genève, je travaille principalement avec des clients Français <span class="fi fi-fr"></span> et Suisses <span class="fi fi-ch"></span>.</p>
 
-<!-- <p>🇫🇷 France &nbsp;&nbsp; 🇨🇭 Suisse</p> -->
-<p><!-- FIREFOX only :-) --></p>
-
-<p class="blink"><a href="assets/cv/Brochure+CV-Freelance_Pascal_Pinchauret-Lamothe_(details).pdf">📥 Télécharger mon CV</a></p>
 <p>💼 LinkedIn : <a href="https://linkedin.com/in/pinchoonet">linkedin.com/in/pinchoonet</a></p>
+
+<!-- <p>🇫🇷 France &nbsp;&nbsp; 🇨🇭 Suisse</p> -->
+<p><!-- FIREFOX only :-) -->
+<!--
+<a href="/assets/cv/Brochure+CV-Freelance_Pascal_Pinchauret-Lamothe_(details).pdf" class="download-btn" download>
+  📥 Télécharger mon CV
+</a>
+--></p>
 
     </main>
 
     <footer>
       <p>&copy; 2025 Pascal PINCHAURET-LAMOTHE</p>
       <span class="version-badge">
-        version 1.0.0.14 - last update (git) : 2025-08-06 10:45:19 +0200
+        version 1.0.0.15 - last update (git) : 2025-08-06 12:59:05 +0200
       </span>
     </footer>
   </body>
 </html>
+
+<!-- External links opened in a new window -->
+<script>
+  document.querySelectorAll('a[href^="http"]').forEach(link => {
+    if (link.hostname !== location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+</script>

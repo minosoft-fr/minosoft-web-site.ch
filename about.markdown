@@ -3,9 +3,11 @@ layout: default
 title: CV
 ---
 
-## Qui suis-je ?
+<a href="/assets/cv/Brochure+CV-Freelance_Pascal_Pinchauret-Lamothe_(details).pdf" class="cv-download" download>
+  📥 Télécharger mon CV
+</a>
 
-Pascal PINCHAURET-LAMOTHE
+## Pascal PINCHAURET-LAMOTHE
 
 Développeur freelance avec plus de 30 ans d’expérience :
 <ul>
@@ -17,8 +19,12 @@ Je suis passionné par le code propre, les architectures bien pensées et les pr
 
 📍 Basé à Grenoble et à Genève, je travaille principalement avec des clients Français <span class="fi fi-fr"></span> et Suisses <span class="fi fi-ch"></span>.
 
-<!-- <p>🇫🇷 France &nbsp;&nbsp; 🇨🇭 Suisse</p> --> <!-- FIREFOX only :-) -->
 
-[📥 Télécharger mon CV](assets/cv/Brochure+CV-Freelance_Pascal_Pinchauret-Lamothe_(details).pdf)
-{: .blink}  
 💼 LinkedIn : [linkedin.com/in/pinchoonet](https://linkedin.com/in/pinchoonet)
+
+<!-- <p>🇫🇷 France &nbsp;&nbsp; 🇨🇭 Suisse</p> --> <!-- FIREFOX only :-) -->
+<!--
+<a href="/assets/cv/Brochure+CV-Freelance_Pascal_Pinchauret-Lamothe_(details).pdf" class="download-btn" download>
+  📥 Télécharger mon CV
+</a>
+-->

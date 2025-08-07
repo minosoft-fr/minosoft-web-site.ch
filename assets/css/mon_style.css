@@ -59,7 +59,7 @@ header h2 { margin-left:0px; width: 100%; margin-top: 10px; margin-bottom: 0; fo
   display: flex;
   align-items: center; /* centre verticalement */
   gap: 10px; /* espace entre le drapeau et le texte */
-  margin-top: 30px; /* espace de plusieurs lignes */
+  margin-top: 0px; /* espace de plusieurs lignes */
 }
 
 .flag-text .label {
@@ -183,6 +183,38 @@ main {
 }
 @keyframes blinker {
   50% { opacity: 0; }
+}
+
+/* download */
+.download-btn {
+  display: inline-block;
+  padding: 0.6em 1.2em;
+  background-color: #007acc;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: #005fa3;
+}
+.cv-download {
+  display: inline-block;
+  padding: 0.7em 1.4em;
+  background: linear-gradient(135deg, #007acc, #005fa3);
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cv-download:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
 }
 
 @media (max-width: 768px) {
