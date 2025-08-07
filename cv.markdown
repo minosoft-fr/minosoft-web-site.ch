@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-<a href="/assets/cv/Brochure+CV-Freelance_Pascal_Pinchauret-Lamothe_(details).pdf" class="cv-download" download>
+<a href="/assets/cv/CV_minosoft.pdf" class="cv-download" download>
   📥 Télécharger mon CV
 </a>
 

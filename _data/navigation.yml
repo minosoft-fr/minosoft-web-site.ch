@@ -6,7 +6,7 @@ main:
     url: "services"
     class: " class=\"menu-header-left\""
   - title: "CV"
-    url: "about"
+    url: "cv"
     class: " class=\"menu-header-left\""
   - title: "Contact"
     url: "contact"
