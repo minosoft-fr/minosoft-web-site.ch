@@ -16,7 +16,7 @@ Je réponds sous 24h et je peux vous envoyer un devis personnalisé.
 🏡 [37 chemin du Vieux Chêne, CS 50040, 38242 MEYLAN Cedex, FRANCE](https://maps.app.goo.gl/x45bt1dHrwy2iQCA9)  
 📧 Email : contact@pascal-pinchauret.fr  
 📞 Téléphone : +33 (0)614 62 67 69  
-💼 mon site pro : [minosoft.fr](http://minosoft.fr)
+💼 mon site pro : [pascal-pinchauret.fr](http://pascal-pinchauret.fr)
 
 <div class="cv-download">
 <div class="flag-text">
