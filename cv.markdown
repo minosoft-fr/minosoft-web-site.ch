@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-<a href="/assets/cv/CV_minosoft.pdf" class="cv-download" download>
+<a href="{{ site.baseurl }}/assets/cv/CV_minosoft.pdf" class="cv-download" download>
   📥 Télécharger mon CV
 </a>
 
