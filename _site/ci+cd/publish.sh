@@ -1,7 +1,9 @@
 #!/bin/bash
 clear
 cd ~/minosoft
-# last updates
+# increase build version
+./ci+cd/next_version.sh
+# build last updates
 jekyll build
 git status
 git add .

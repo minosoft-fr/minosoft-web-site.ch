@@ -3,11 +3,21 @@ layout: default
 title: CV
 ---
 
-<a href="{{ site.baseurl }}/assets/cv/CV_minosoft.pdf" class="cv-download" download>
-  📥 Télécharger mon CV
+<div class="flags">
+<span class="fi fi-fr"></span>
+<a href="{{ site.baseurl }}/assets/cv/CV_minosoft_FR.pdf" class="cv-download" download>
+📥 Télécharger mon CV
 </a>
+</div>
+<p></p>
+<div class="flags">
+<span class="fi fi-ch"></span>
+<a href="{{ site.baseurl }}/assets/cv/CV_minosoft_CH.pdf" class="cv-download" download>
+📥 Télécharger mon CV
+</a>
+</div>
 
-## Pascal PINCHAURET-LAMOTHE
+## Pascal PINCHAURET-LAMOTHE (société <i>minosoft</i>)
 
 Développeur freelance avec plus de 30 ans d’expérience :
 <ul>
