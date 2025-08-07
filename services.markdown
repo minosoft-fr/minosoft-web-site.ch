@@ -42,3 +42,5 @@ title: Services
     <td><img src="{{ site.baseurl }}/assets/images/malt-avis.png" alt="avis malt"></td>
   </tr>
 </table>
+
+<a href="{{ site.baseurl }}/404.html">404</a>
