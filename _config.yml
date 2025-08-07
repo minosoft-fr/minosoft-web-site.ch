@@ -12,10 +12,10 @@ version:
   major: 1
   minor: 0
   patch: 0
-  build: 22
+  build: 23
 
 # 📁 Last update (git)
-last_update: "2025-08-07 15:45:28 +0200"
+last_update: "2025-08-07 15:45:30 +0200"
 
 # 🖼️ Thème distant (Architect)
 remote_theme: pages-themes/architect@v0.2.0
