@@ -27,4 +27,4 @@ Je réponds sous 24h et je peux vous envoyer un devis personnalisé.
 🏡 [12 Rue Le Corbusier, 1208 Genève, SUISSE (CH)](https://maps.app.goo.gl/Gx9ChnDNCzw3QvrcA)  
 📧 Email : contact@minosoft.ch  
 📞 Téléphone : +41 (0)783 160 760  
-💼 mon site pro : [minosoft.ch](http://minosoft.ch)
+💼 mon site pro : [minosoft.ch](https://minosoft.ch)

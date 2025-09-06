@@ -12,10 +12,10 @@ version:
   major: 1
   minor: 0
   patch: 0
-  build: 23
+  build: 24
 
 # 📁 Last update (git)
-last_update: "2025-08-07 18:25:46 +0200"
+last_update: "2025-08-07 18:25:48 +0200"
 
 # 🖼️ Thème distant (Architect)
 remote_theme: pages-themes/architect@v0.2.0
@@ -59,3 +59,15 @@ defaults:
       type: "pages"
     values:
       layout: default
+
+# -----------------------------------------------
+#  IP GitHub Pages => OVH
+# -----------------------------------------------
+# 
+# minosoft.ch.  IN  A  185.199.108.153
+# minosoft.ch.  IN  A  185.199.109.153
+# minosoft.ch.  IN  A  185.199.110.153
+# minosoft.ch.  IN  A  185.199.111.153
+# 
+# redirection
+# https://minosoft-fr.github.io/minosoft-web-site/
